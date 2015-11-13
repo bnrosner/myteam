@@ -5,3 +5,18 @@
     color: orange;
     background-color: black;
 }
+
+img {
+    vertical-align: middle;
+    width: 200px;
+}
+
+.tableheader {
+  background-color: black;
+  color: orange;
+}
+
+.tableheader2 {
+  background-color: gray;
+  color: orange;
+}
